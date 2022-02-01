@@ -7,4 +7,4 @@ Thanks to JAVASCRIPT MASTERY, who in diverse ways have been helping me out impro
 
 I am actually recommending him for junior developers even senior developers who might want to advance in their carrier.
 
-<a href="https://expense-income.netlify.app/">Live Site</a>
+<a href="https://expense-income.netlify.app/" target="_blank">Live Site</a>
